@@ -1,4 +1,4 @@
-# NLP-Project-3---Twitter-Sentiment-Analysis-with-Random-Forest
+# Twitter-Sentiment-Analysis
 Twitter Sentiment Analysis with TF-IDF and Random Forest Model
 This project analyzes sentiments from Twitter data using Natural Language Processing and a Random Forest Classifier.
 
